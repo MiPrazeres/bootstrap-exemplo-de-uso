@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-form {
+    
+    background: linear-gradient(145deg, #e5e0e2, #dbdbdb)!important;
+    width: 50%; 
+    margin: 100 auto; 
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 50px;
+    margin-bottom: 50px;
+}
+
+
+.form-label{
+    color: #fff;
+}
+
+.custom-icon{
+    background-color: #f199c2;
+    border: #f199c2;
+}
+
+.btn.btn-primary.custom-button {
+    background: linear-gradient(145deg, #32c0b4, #299cda);
+    padding: 0.8rem 2rem;
+    border-radius: 15px;
+    border: none;
+    width: 100%; 
+}
+
+h1{
+   font-size: 50px;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-family: fantasy;
+}
+
